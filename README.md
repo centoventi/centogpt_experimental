@@ -1,4 +1,3 @@
 # centogpt_experimental
-CentoGPT for VSC 
-Current API/GPT version:
-CentoGPT with GPT-3.5-Turbo API
+A work in progress experimental project.
+- Currently 3.5-Turbo API is supported on this project.
