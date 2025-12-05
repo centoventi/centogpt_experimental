@@ -1,5 +1,6 @@
 # centogpt_experimental (Experimental project)
 A work in progress experimental project.
+**IMPORTANT:** Python interpreter is required in order to make the files work.
 - Experimental support for GPT-3.5-Turbo API.
 
 # Release 1.0 -- Experimental
